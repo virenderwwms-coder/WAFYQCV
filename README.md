@@ -1,2 +1,0 @@
-# WAFYQCV
-AI CV MAKER
