@@ -1,0 +1,5 @@
+
+{
+  "name": "AI ATS-Friendly CV Generator",
+  "description": "An AI-powered application to generate professional, ATS-friendly Curriculum Vitae (CVs) in .docx and .pdf formats. It uses Gemini to craft keyword-optimized content based on user input, ensuring resumes are easily parsable by applicant tracking systems."
+}
